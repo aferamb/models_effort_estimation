@@ -1,4 +1,4 @@
-# Assignment 1 Part 2 - Software Effort Estimation
+Software Effort Estimation
 
 This repository contains a reproducible workflow for software effort estimation using public PROMISE/Zenodo datasets. The main notebook loads and audits the data, applies leakage-aware preprocessing, evaluates several model families, and exports result tables and figures for the final report.
 
