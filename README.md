@@ -193,4 +193,10 @@ After execution, the notebook writes or updates:
 - `category_comparison_summary.csv`
 
 
-The repository can also be used as a starting point for related studies. A future experiment can reuse the data-loading pattern, leakage-aware preprocessing, nested evaluation loop, metric exports, and visualization structure while replacing the datasets or extending the model specifications.
+## Attribution
+
+The repository can be used as a starting point for related studies. A future experiment can reuse the data-loading pattern, leakage-aware preprocessing, nested evaluation loop, metric exports, and visualization structure while replacing the datasets or extending the model specifications.
+
+This project is released under the MIT License, which means you are free to use, modify, share, and commercialize it.
+
+If you use this work, a mention and a link back to this repository would be greatly appreciated.
