@@ -1,5 +1,7 @@
 # Software Effort Estimation
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/aferamb/models_effort_estimation)
+
 This repository contains a reproducible workflow for software effort estimation using public PROMISE/Zenodo datasets. The main notebook loads and audits the data, applies leakage-aware preprocessing, evaluates several model families, and exports result tables and figures for the final report.
 
 ## Study Summary
